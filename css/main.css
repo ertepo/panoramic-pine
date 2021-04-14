@@ -7624,7 +7624,6 @@ h2 a {
   height: 100%;
   overflow: hidden;
   padding: 0 20px;
-  vertical-align: middle;
   text-overflow: ellipsis;
 }
 
