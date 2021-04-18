@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: sezione hero
+    title: sezione hero cazzo
     subtitle: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
       quis lorem malesuada luctus.
