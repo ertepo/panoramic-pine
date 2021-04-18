@@ -7,7 +7,7 @@ sections:
   - type: contact_section
 seo:
   title: Contact
-  description: This is the contact page
+  description: This is the contact page cazzo
   extra:
     - name: 'og:type'
       value: website
